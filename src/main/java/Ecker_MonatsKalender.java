@@ -1,3 +1,22 @@
+/*----------------------------------------------------------
+ *                 HTL-Leonding / Klasse: 1AHITM
+ * ----------------------------------------------------------
+ * Übungsnr.:   --
+ * Übungstitel: Monatstage
+ * Autoren:     Ecker Quirin
+ * Version:     1.0
+ * Datum:       17.12.2017
+ * ----------------------------------------------------------
+ * Kurzbeschreibung:
+ * Ausrechnung der Monatstage.
+ *
+ * ----------------------------------------------------------
+ * Beschreibung der grundlegenden Lösungsidee:
+ * Ausrechnung der Monatstage mit einer verschachtelten Schleife.
+ *
+ * ----------------------------------------------------------
+*/
+
 import java.util.Scanner;
 
 public class Ecker_MonatsKalender {
